@@ -1,0 +1,3 @@
+# Magasin-Scolaire
+SITE DE MAGASIN SCOLAIRE avec HTML-PHP-MYSQL
+Travailler avec PHPMYADMIN et XAMPP
