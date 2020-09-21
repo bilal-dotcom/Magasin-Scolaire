@@ -1,0 +1,9 @@
+body{background-image:url("../photo/coin.GIF");  background-image:url("../photo/accueil0.JPG"); 
+background-position:50%;
+  background-repeat:no-repeat;  font-family:calibri}
+
+
+#logoup{background-image:url("../photo/LogoTeccart.JPG");   HEIGHT:50PX; background-repeat:no-repeat;
+margin-left:45%;}
+
+#mag{box-shadow: 10px 0px 0px red;}
